@@ -1,5 +1,5 @@
 body {
-    background-color: #1f2937;
+    
 }
 .logo-container {
     display: flex;
@@ -15,4 +15,17 @@ ul {
 .links {
     display: flex;
     align-items: center;
+}
+.header-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.image {
+  width: 320px;
+  height: 50px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
 }
